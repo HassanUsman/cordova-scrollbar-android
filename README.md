@@ -64,6 +64,10 @@ from the TypeScript sources.
 
 Obviously, this will only work if you install NodeJS / io.js and `grunt-cli` first.
 
+## Maintainer
+[![HassanUsman](https://avatars0.githubusercontent.com/u/10232094?v=4&s=40) HassanUsman](https://github.com/HassanUsman)  
+
+
 # License
 
 The plugin is published under the Apache license v2.0 .
