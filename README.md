@@ -5,7 +5,7 @@ way to programatically reenable them.
 
 # How to use it?
 
-## Installation
+## Installation  
 
 Install the plugin into your cordova project via
 
